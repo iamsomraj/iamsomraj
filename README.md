@@ -1,6 +1,6 @@
-### Hi there, I'm Somraj - aka [iamsomraj][website] 👋
+### Hey, I am Somraj - aka [Coding Pillow][youtube]👋
 
-## I'm a Software Developer, and YouTube Tech Content Creator at [Coding Pillow][youtube] !
+## I'm a Software Developer, and YouTube Tech Content Creator!
 
 - 🔭 I’m currently busy thinking about the videos!
 - 🌱 I’m currently trying to learn everything 🤣
