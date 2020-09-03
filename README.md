@@ -1,4 +1,4 @@
-### Hey, I am Somraj - aka [Coding Pillow][youtube]👋
+### Hey, I am Somraj - aka [Coding Pillow][youtube] 👋
 
 ## I'm a Software Developer, and YouTube Tech Content Creator!
 
