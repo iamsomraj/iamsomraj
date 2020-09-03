@@ -7,7 +7,7 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=iamsomraj&style=flat-square&label=Profile+Visits)
 
 
-## I'm a Software Developer, and YouTube Tech Content Creator!
+## I'm a Software Developer, and YouTuber!
 
 - 🔭 I’m currently busy thinking about the videos!
 - 🌱 I’m currently trying to learn everything 🤣
