@@ -41,15 +41,19 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [MERN Stack Tutorial   2   Creating Our Backend With MongoDb](https://www.youtube.com/watch?v=W58HfM9bhHI)
-- [MERN Stack Tutorial   11   Finishing our MERN Stack Application with Create Post Component](https://www.youtube.com/watch?v=nMLEZopNJtw)
-- [MERN Stack Tutorial   0   Introduction](https://www.youtube.com/watch?v=uQduie_i-mw)
-- [MERN Stack Tutorial   1   Creating Our Server](https://www.youtube.com/watch?v=CILU3kPkvA0)
-- [MERN Stack Tutorial   9   Adding Get Post Data and Delete Post Action to Redux](https://www.youtube.com/watch?v=iFYXLmA-qro)
+
+- [MERN Stack Tutorial 2 Creating Our Backend With MongoDb](https://www.youtube.com/watch?v=W58HfM9bhHI)
+- [MERN Stack Tutorial 11 Finishing our MERN Stack Application with Create Post Component](https://www.youtube.com/watch?v=nMLEZopNJtw)
+- [MERN Stack Tutorial 0 Introduction](https://www.youtube.com/watch?v=uQduie_i-mw)
+- [MERN Stack Tutorial 1 Creating Our Server](https://www.youtube.com/watch?v=CILU3kPkvA0)
+- [MERN Stack Tutorial 9 Adding Get Post Data and Delete Post Action to Redux](https://www.youtube.com/watch?v=iFYXLmA-qro)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCpMMxmD0UWep2B7TfHynvdQ/)
 
+---
+
+<img align="left" alt="iamsomraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamsomraj&show_icons=true&hide_border=true" />
 
 [website]: https://iamsomraj.github.io/
 [twitter]: https://twitter.com/iSomraj
