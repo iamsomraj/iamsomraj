@@ -61,6 +61,13 @@
 
 <img align="left" alt="iamsomraj's Github Stats" src="https://github-readme-stats.iamsomraj.vercel.app/api?username=iamsomraj&show_icons=true&hide_border=true&hide=issues&count_private=true" />
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [website]: https://iamsomraj.github.io/
 [twitter]: https://twitter.com/iSomraj
 [youtube]: https://www.youtube.com/channel/UCpMMxmD0UWep2B7TfHynvdQ/
