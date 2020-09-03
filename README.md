@@ -1,4 +1,4 @@
-### Hey, I am Somraj - aka [Coding Pillow][youtube] 👋
+### Hey, I am Somraj from [Coding Pillow][youtube] 👋
 
 <br/>
 
