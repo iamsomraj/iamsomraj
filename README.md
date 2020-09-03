@@ -5,7 +5,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/iSomraj?logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/iamsomraj?logo=github&style=for-the-badge)
 
-<br/>
 
 ## I'm a Software Developer, and YouTube Tech Content Creator!
 
