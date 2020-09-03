@@ -2,10 +2,9 @@
 
 <br/>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/iSomraj?logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/iamsomraj?logo=github&style=for-the-badge)
-<br/>
-![Profile Visits](https://komarev.com/ghpvc/?username=iamsomraj&logo=github&style=for-the-badge&label=Profile+Visits)
+![Twitter Follow](https://img.shields.io/twitter/follow/iSomraj?logo=twitter&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/iamsomraj?logo=github&style=flat-square)
+![Profile Visits](https://komarev.com/ghpvc/?username=iamsomraj&style=flat-square&label=Profile+Visits)
 
 
 ## I'm a Software Developer, and YouTube Tech Content Creator!
