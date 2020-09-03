@@ -2,8 +2,8 @@
 
 <br/>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/isomraj?color=%1DA1F2&logo=twitter&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/iamsomraj?color=%1DA1F2&logo=github&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/isomraj?color=1DA1F2&logo=twitter&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/iamsomraj?color=1DA1F2&logo=github&style=flat-square)
 ![Profile Visits](https://komarev.com/ghpvc/?username=iamsomraj&style=flat-square&label=Profile+Visits&color=1DA1F2)
 
 
