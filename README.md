@@ -53,7 +53,12 @@
 
 ---
 
-<img align="left" alt="iamsomraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamsomraj&show_icons=true&hide_border=true&hide=issues" />
+<img align="left" alt="iamsomraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamsomraj&show_icons=true&hide_border=true&hide=issues&count_private=true" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsomraj)](https://iamsomraj.github.io/)
+
 
 [website]: https://iamsomraj.github.io/
 [twitter]: https://twitter.com/iSomraj
