@@ -41,11 +41,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Create a basic Express Server](https://youtu.be/CILU3kPkvA0)
-- [Connect MongoDB with the Express Server](https://youtu.be/W58HfM9bhHI)
-- [Create API Routes](https://youtu.be/QsF4E4ptU2M)
-- [Add Redux to React](https://youtu.be/1FjFTRinzcA)
-- [Learn MERN Stack](https://www.youtube.com/playlist?list=PLNdJcRCkHGEmFuzmdFoQf2-eKv4GRzJ5m)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCpMMxmD0UWep2B7TfHynvdQ/)
