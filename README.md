@@ -62,8 +62,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//iamsomraj/mern-post-app-with-redux-coding-pillow/pull/1) in [iamsomraj/mern-post-app-with-redux-coding-pillow](https://github.com//iamsomraj/mern-post-app-with-redux-coding-pillow)
-2. 💪 Opened PR [#1](https://github.com//iamsomraj/mern-post-app-with-redux-coding-pillow/pull/1) in [iamsomraj/mern-post-app-with-redux-coding-pillow](https://github.com//iamsomraj/mern-post-app-with-redux-coding-pillow)
+1. 🎉 Merged PR [#1](https://github.com//iamsomraj/Adapt-Stage-2-Java/pull/1) in [iamsomraj/Adapt-Stage-2-Java](https://github.com//iamsomraj/Adapt-Stage-2-Java)
+2. 🗣 Commented on [#1](https://github.com//iamsomraj/Adapt-Stage-2-Java/issues/1) in [iamsomraj/Adapt-Stage-2-Java](https://github.com//iamsomraj/Adapt-Stage-2-Java)
 3. 🎉 Merged PR [#2](https://github.com//iamsomraj/MERN-Shopping-App/pull/2) in [iamsomraj/MERN-Shopping-App](https://github.com//iamsomraj/MERN-Shopping-App)
 4. 🎉 Merged PR [#3](https://github.com//iamsomraj/Adapt-Solutions/pull/3) in [iamsomraj/Adapt-Solutions](https://github.com//iamsomraj/Adapt-Solutions)
 5. 🗣 Commented on [#3](https://github.com//iamsomraj/Adapt-Solutions/issues/3) in [iamsomraj/Adapt-Solutions](https://github.com//iamsomraj/Adapt-Solutions)
