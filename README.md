@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/iamsomraj/react-lists/pull/5) in [iamsomraj/react-lists](https://github.com/iamsomraj/react-lists)
-2. 🎉 Merged PR [#6](https://github.com/iamsomraj/react-lists/pull/6) in [iamsomraj/react-lists](https://github.com/iamsomraj/react-lists)
-3. 🎉 Merged PR [#1](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/1) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
-4. 🗣 Commented on [#1](https://github.com/iamsomraj/Adapt-Stage-2-Java/issues/1) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
-5. 🗣 Commented on [#3](https://github.com//iamsomraj/Adapt-Solutions/issues/3) in [iamsomraj/Adapt-Solutions](https://github.com//iamsomraj/Adapt-Solutions)
+1. 🎉 Merged PR [#7](https://github.com/iamsomraj/react-lists/pull/7) in [iamsomraj/react-lists](https://github.com/iamsomraj/react-lists)
+2. 🎉 Merged PR [#4](https://github.com/iamsomraj/react-lists/pull/4) in [iamsomraj/react-lists](https://github.com/iamsomraj/react-lists)
+3. 🎉 Merged PR [#5](https://github.com/iamsomraj/react-lists/pull/5) in [iamsomraj/react-lists](https://github.com/iamsomraj/react-lists)
+4. 🎉 Merged PR [#6](https://github.com/iamsomraj/react-lists/pull/6) in [iamsomraj/react-lists](https://github.com/iamsomraj/react-lists)
+5. 🎉 Merged PR [#1](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/1) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
 <!--END_SECTION:activity-->
 
 ---
