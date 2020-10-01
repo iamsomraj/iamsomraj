@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/3) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
-2. 🗣 Commented on [#3](https://github.com/iamsomraj/Adapt-Stage-2-Java/issues/3) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
-3. 🎉 Merged PR [#2](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/2) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
-4. ❌ Closed PR [#4](https://github.com/iamsomraj/Adapt-Solutions/pull/4) in [iamsomraj/Adapt-Solutions](https://github.com/iamsomraj/Adapt-Solutions)
-5. 🗣 Commented on [#4](https://github.com/iamsomraj/Adapt-Solutions/issues/4) in [iamsomraj/Adapt-Solutions](https://github.com/iamsomraj/Adapt-Solutions)
+1. 💪 Opened PR [#1](https://github.com/RishitaChoubey98/Hipla_Project/pull/1) in [RishitaChoubey98/Hipla_Project](https://github.com/RishitaChoubey98/Hipla_Project)
+2. 🎉 Merged PR [#3](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/3) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
+3. 🗣 Commented on [#3](https://github.com/iamsomraj/Adapt-Stage-2-Java/issues/3) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
+4. 🎉 Merged PR [#2](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/2) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
+5. ❌ Closed PR [#4](https://github.com/iamsomraj/Adapt-Solutions/pull/4) in [iamsomraj/Adapt-Solutions](https://github.com/iamsomraj/Adapt-Solutions)
 <!--END_SECTION:activity-->
 
 ---
