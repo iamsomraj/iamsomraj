@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/2) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
-2. 💪 Opened PR [#1](https://github.com/RishitaChoubey98/Hipla_Project/pull/1) in [RishitaChoubey98/Hipla_Project](https://github.com/RishitaChoubey98/Hipla_Project)
-3. 🎉 Merged PR [#3](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/3) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
-4. 🗣 Commented on [#3](https://github.com/iamsomraj/Adapt-Stage-2-Java/issues/3) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
-5. 🎉 Merged PR [#2](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/2) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
+1. 💪 Opened PR [#3](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/3) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
+2. 💪 Opened PR [#2](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/2) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
+3. 💪 Opened PR [#1](https://github.com/RishitaChoubey98/Hipla_Project/pull/1) in [RishitaChoubey98/Hipla_Project](https://github.com/RishitaChoubey98/Hipla_Project)
+4. 🎉 Merged PR [#3](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/3) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
+5. 🗣 Commented on [#3](https://github.com/iamsomraj/Adapt-Stage-2-Java/issues/3) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
 <!--END_SECTION:activity-->
 
 ---
