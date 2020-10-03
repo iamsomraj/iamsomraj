@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/singhayushh/book_CLRS/pull/7) in [singhayushh/book_CLRS](https://github.com/singhayushh/book_CLRS)
-2. 💪 Opened PR [#1](https://github.com/jagriti47/Random-Coding-Work/pull/1) in [jagriti47/Random-Coding-Work](https://github.com/jagriti47/Random-Coding-Work)
-3. 💪 Opened PR [#3](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/3) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
-4. 💪 Opened PR [#2](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/2) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
-5. 💪 Opened PR [#1](https://github.com/RishitaChoubey98/Hipla_Project/pull/1) in [RishitaChoubey98/Hipla_Project](https://github.com/RishitaChoubey98/Hipla_Project)
+1. 💪 Opened PR [#18](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/18) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
+2. 💪 Opened PR [#7](https://github.com/singhayushh/book_CLRS/pull/7) in [singhayushh/book_CLRS](https://github.com/singhayushh/book_CLRS)
+3. 💪 Opened PR [#1](https://github.com/jagriti47/Random-Coding-Work/pull/1) in [jagriti47/Random-Coding-Work](https://github.com/jagriti47/Random-Coding-Work)
+4. 💪 Opened PR [#3](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/3) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
+5. 💪 Opened PR [#2](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/2) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
 <!--END_SECTION:activity-->
 
 ---
