@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/31) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
-2. 💪 Opened PR [#20](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/20) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
-3. 💪 Opened PR [#18](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/18) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
-4. 💪 Opened PR [#7](https://github.com/singhayushh/book_CLRS/pull/7) in [singhayushh/book_CLRS](https://github.com/singhayushh/book_CLRS)
-5. 💪 Opened PR [#1](https://github.com/jagriti47/Random-Coding-Work/pull/1) in [jagriti47/Random-Coding-Work](https://github.com/jagriti47/Random-Coding-Work)
+1. 💪 Opened PR [#46](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/46) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
+2. 💪 Opened PR [#31](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/31) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
+3. 💪 Opened PR [#20](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/20) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
+4. 💪 Opened PR [#18](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/18) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
+5. 💪 Opened PR [#7](https://github.com/singhayushh/book_CLRS/pull/7) in [singhayushh/book_CLRS](https://github.com/singhayushh/book_CLRS)
 <!--END_SECTION:activity-->
 
 ---
