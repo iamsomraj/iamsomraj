@@ -7,12 +7,10 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=iamsomraj&style=flat-square&label=Profile+Visits&color=1DA1F2)
 
 
-## I'm a Software Developer, and YouTuber!
+## I'm a Developer, and YouTuber!
 
-- 🔭 I’m currently busy thinking about the videos!
-- 🌱 I’m currently trying to learn everything 🤣
-- 👯 I’m looking forward to join the IT industry
-- 🥅 2020 Goals: Learn new things and make more content on YouTube
+- 🔭 I’m currently working on a new playlist for my channel!
+- 🥅 2020 Goals: Do more open source contributions and make more content on YouTube
 - ⚡ Fun fact: I love to eat and code ( day and night ) 😛
 
 ### Connect with me:
