@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/61) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
-2. 💪 Opened PR [#46](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/46) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
-3. 💪 Opened PR [#31](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/31) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
-4. 💪 Opened PR [#20](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/20) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
-5. 💪 Opened PR [#18](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020/pull/18) in [Mustafiz04/Contribute-to-HacktoberFest2020](https://github.com/Mustafiz04/Contribute-to-HacktoberFest2020)
+1. 🎉 Merged PR [#2](https://github.com/iamsomraj/Banking-System-Using-Java/pull/2) in [iamsomraj/Banking-System-Using-Java](https://github.com/iamsomraj/Banking-System-Using-Java)
+2. 🎉 Merged PR [#1](https://github.com/iamsomraj/Date-to-Day-Conversion-in-C-Java-Python/pull/1) in [iamsomraj/Date-to-Day-Conversion-in-C-Java-Python](https://github.com/iamsomraj/Date-to-Day-Conversion-in-C-Java-Python)
+3. 🎉 Merged PR [#5](https://github.com/iamsomraj/MERN-Shopping-App/pull/5) in [iamsomraj/MERN-Shopping-App](https://github.com/iamsomraj/MERN-Shopping-App)
+4. 🎉 Merged PR [#1](https://github.com/iamsomraj/BrainJam-Tricky-Mathematical-Brain-Training-Game/pull/1) in [iamsomraj/BrainJam-Tricky-Mathematical-Brain-Training-Game](https://github.com/iamsomraj/BrainJam-Tricky-Mathematical-Brain-Training-Game)
+5. 🎉 Merged PR [#4](https://github.com/iamsomraj/Adapt-Stage-2-Java/pull/4) in [iamsomraj/Adapt-Stage-2-Java](https://github.com/iamsomraj/Adapt-Stage-2-Java)
 <!--END_SECTION:activity-->
 
 ---
