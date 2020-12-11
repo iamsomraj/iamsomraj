@@ -69,7 +69,6 @@
 
 ---
 
-<img align="left" alt="iamsomraj's Github Stats" src="https://github-readme-stats.iamsomraj.vercel.app/api?username=iamsomraj&show_icons=true&hide_border=true&hide=issues&count_private=true" />
 
 
 [website]: https://iamsomraj.github.io/
