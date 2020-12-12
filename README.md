@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/iamsomraj/Doubly-Linked-List-in-C-Java-Python/pull/1) in [iamsomraj/Doubly-Linked-List-in-C-Java-Python](https://github.com/iamsomraj/Doubly-Linked-List-in-C-Java-Python)
-2. 🎉 Merged PR [#2](https://github.com/iamsomraj/Banking-System-Using-Java/pull/2) in [iamsomraj/Banking-System-Using-Java](https://github.com/iamsomraj/Banking-System-Using-Java)
-3. 🎉 Merged PR [#1](https://github.com/iamsomraj/Date-to-Day-Conversion-in-C-Java-Python/pull/1) in [iamsomraj/Date-to-Day-Conversion-in-C-Java-Python](https://github.com/iamsomraj/Date-to-Day-Conversion-in-C-Java-Python)
-4. 🎉 Merged PR [#5](https://github.com/iamsomraj/MERN-Shopping-App/pull/5) in [iamsomraj/MERN-Shopping-App](https://github.com/iamsomraj/MERN-Shopping-App)
-5. 🎉 Merged PR [#1](https://github.com/iamsomraj/BrainJam-Tricky-Mathematical-Brain-Training-Game/pull/1) in [iamsomraj/BrainJam-Tricky-Mathematical-Brain-Training-Game](https://github.com/iamsomraj/BrainJam-Tricky-Mathematical-Brain-Training-Game)
+1. 🎉 Merged PR [#1](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/1) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+2. 🎉 Merged PR [#3](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/3) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+3. 🎉 Merged PR [#4](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/4) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+4. 🎉 Merged PR [#6](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/6) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+5. 🎉 Merged PR [#1](https://github.com/iamsomraj/Doubly-Linked-List-in-C-Java-Python/pull/1) in [iamsomraj/Doubly-Linked-List-in-C-Java-Python](https://github.com/iamsomraj/Doubly-Linked-List-in-C-Java-Python)
 <!--END_SECTION:activity-->
 
 ---
