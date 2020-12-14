@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/1) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-2. 🎉 Merged PR [#3](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/3) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-3. 🎉 Merged PR [#4](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/4) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-4. 🎉 Merged PR [#6](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/6) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-5. 🎉 Merged PR [#1](https://github.com/iamsomraj/Doubly-Linked-List-in-C-Java-Python/pull/1) in [iamsomraj/Doubly-Linked-List-in-C-Java-Python](https://github.com/iamsomraj/Doubly-Linked-List-in-C-Java-Python)
+1. 🎉 Merged PR [#2](https://github.com/iamsomraj/NodeVanillaChatApp/pull/2) in [iamsomraj/NodeVanillaChatApp](https://github.com/iamsomraj/NodeVanillaChatApp)
+2. 🎉 Merged PR [#1](https://github.com/iamsomraj/React-formik-demo-app/pull/1) in [iamsomraj/React-formik-demo-app](https://github.com/iamsomraj/React-formik-demo-app)
+3. 🎉 Merged PR [#1](https://github.com/iamsomraj/NodeVanillaChatApp/pull/1) in [iamsomraj/NodeVanillaChatApp](https://github.com/iamsomraj/NodeVanillaChatApp)
+4. 🎉 Merged PR [#1](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/1) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+5. 🎉 Merged PR [#3](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/3) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
 <!--END_SECTION:activity-->
 
 ---
