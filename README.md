@@ -10,7 +10,7 @@
 ## I'm a Developer, and YouTuber!
 
 - 🔭 I’m currently working on a new playlist for my channel!
-- 🥅 2020 Goals: Do more open source contributions and make more content on YouTube
+- 🥅 2021 Goals: Do more open source contributions and make more content on YouTube
 - ⚡ Fun fact: I love to eat and code ( day and night ) 😛
 
 ### Connect with me:
