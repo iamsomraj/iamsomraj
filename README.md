@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/iamsomraj/Adapt-Solutions/pull/6) in [iamsomraj/Adapt-Solutions](https://github.com/iamsomraj/Adapt-Solutions)
-2. 🗣 Commented on [#6](https://github.com/iamsomraj/Adapt-Solutions/issues/6) in [iamsomraj/Adapt-Solutions](https://github.com/iamsomraj/Adapt-Solutions)
-3. 🎉 Merged PR [#2](https://github.com/iamsomraj/React-formik-demo-app/pull/2) in [iamsomraj/React-formik-demo-app](https://github.com/iamsomraj/React-formik-demo-app)
-4. 🎉 Merged PR [#3](https://github.com/iamsomraj/NodeVanillaChatApp/pull/3) in [iamsomraj/NodeVanillaChatApp](https://github.com/iamsomraj/NodeVanillaChatApp)
-5. 🎉 Merged PR [#1](https://github.com/iamsomraj/Coding/pull/1) in [iamsomraj/Coding](https://github.com/iamsomraj/Coding)
+1. ❗️ Closed issue [#5](https://github.com/iamsomraj/Adapt-Solutions/issues/5) in [iamsomraj/Adapt-Solutions](https://github.com/iamsomraj/Adapt-Solutions)
+2. 🎉 Merged PR [#6](https://github.com/iamsomraj/Adapt-Solutions/pull/6) in [iamsomraj/Adapt-Solutions](https://github.com/iamsomraj/Adapt-Solutions)
+3. 🗣 Commented on [#6](https://github.com/iamsomraj/Adapt-Solutions/issues/6) in [iamsomraj/Adapt-Solutions](https://github.com/iamsomraj/Adapt-Solutions)
+4. 🎉 Merged PR [#2](https://github.com/iamsomraj/React-formik-demo-app/pull/2) in [iamsomraj/React-formik-demo-app](https://github.com/iamsomraj/React-formik-demo-app)
+5. 🎉 Merged PR [#3](https://github.com/iamsomraj/NodeVanillaChatApp/pull/3) in [iamsomraj/NodeVanillaChatApp](https://github.com/iamsomraj/NodeVanillaChatApp)
 <!--END_SECTION:activity-->
 
 ---
