@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/iamsomraj/MERN-Shopping-App/pull/1) in [iamsomraj/MERN-Shopping-App](https://github.com/iamsomraj/MERN-Shopping-App)
-2. 🎉 Merged PR [#9](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/9) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-3. 🎉 Merged PR [#5](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/5) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
-4. 🎉 Merged PR [#3](https://github.com/iamsomraj/React-formik-demo-app/pull/3) in [iamsomraj/React-formik-demo-app](https://github.com/iamsomraj/React-formik-demo-app)
-5. ❗️ Closed issue [#5](https://github.com/iamsomraj/Adapt-Solutions/issues/5) in [iamsomraj/Adapt-Solutions](https://github.com/iamsomraj/Adapt-Solutions)
+1. 🎉 Merged PR [#6](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/6) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
+2. 🎉 Merged PR [#4](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/4) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
+3. 🎉 Merged PR [#3](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/3) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
+4. 🎉 Merged PR [#2](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/2) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
+5. 🎉 Merged PR [#7](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/7) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
 <!--END_SECTION:activity-->
 
 ---
