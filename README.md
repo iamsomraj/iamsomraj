@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/iamsomraj/Capture-Brand-Page/pull/1) in [iamsomraj/Capture-Brand-Page](https://github.com/iamsomraj/Capture-Brand-Page)
-2. 🎉 Merged PR [#6](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/6) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
-3. 🎉 Merged PR [#4](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/4) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
-4. 🎉 Merged PR [#3](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/3) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
-5. 🎉 Merged PR [#2](https://github.com/iamsomraj/MERN-Expense-Tracker/pull/2) in [iamsomraj/MERN-Expense-Tracker](https://github.com/iamsomraj/MERN-Expense-Tracker)
+1. 🎉 Merged PR [#7](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/7) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+2. 🎉 Merged PR [#8](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/8) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+3. 🎉 Merged PR [#10](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/10) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+4. 🎉 Merged PR [#11](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/11) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+5. 🎉 Merged PR [#12](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/12) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
 <!--END_SECTION:activity-->
 
 ---
