@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/iamsomraj/Log-Me-In/pull/1) in [iamsomraj/Log-Me-In](https://github.com/iamsomraj/Log-Me-In)
-2. 💪 Opened PR [#1](https://github.com/iamsomraj/Log-Me-In/pull/1) in [iamsomraj/Log-Me-In](https://github.com/iamsomraj/Log-Me-In)
-3. 🎉 Merged PR [#7](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/7) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-4. 🎉 Merged PR [#8](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/8) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-5. 🎉 Merged PR [#10](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/10) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+1. 🎉 Merged PR [#14](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/14) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+2. 🎉 Merged PR [#1](https://github.com/iamsomraj/Log-Me-In/pull/1) in [iamsomraj/Log-Me-In](https://github.com/iamsomraj/Log-Me-In)
+3. 💪 Opened PR [#1](https://github.com/iamsomraj/Log-Me-In/pull/1) in [iamsomraj/Log-Me-In](https://github.com/iamsomraj/Log-Me-In)
+4. 🎉 Merged PR [#7](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/7) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
+5. 🎉 Merged PR [#8](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/8) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
 <!--END_SECTION:activity-->
 
 ---
