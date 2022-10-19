@@ -1,4 +1,4 @@
-### Hey, I am Somraj from [Coding Pillow][youtube] 👋
+### Hey, I am Somraj 👋
 
 <br/>
 
@@ -40,35 +40,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [MERN Stack Tutorial   2   Creating Our Backend With MongoDb](https://www.youtube.com/watch?v=W58HfM9bhHI)
-- [MERN Stack Tutorial   11   Finishing our MERN Stack Application with Create Post Component](https://www.youtube.com/watch?v=nMLEZopNJtw)
-- [MERN Stack Tutorial   0   Introduction](https://www.youtube.com/watch?v=uQduie_i-mw)
-- [MERN Stack Tutorial   1   Creating Our Server](https://www.youtube.com/watch?v=CILU3kPkvA0)
-- [MERN Stack Tutorial   9   Adding Get Post Data and Delete Post Action to Redux](https://www.youtube.com/watch?v=iFYXLmA-qro)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCpMMxmD0UWep2B7TfHynvdQ/)
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/iamsomraj/React-Movie-Database/pull/1) in [iamsomraj/React-Movie-Database](https://github.com/iamsomraj/React-Movie-Database)
-2. 🎉 Merged PR [#14](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/14) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-3. 💪 Opened PR [#1](https://github.com/iamsomraj/Log-Me-In/pull/1) in [iamsomraj/Log-Me-In](https://github.com/iamsomraj/Log-Me-In)
-4. 🎉 Merged PR [#7](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/7) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-5. 🎉 Merged PR [#8](https://github.com/iamsomraj/MERN-Shopping-App-Old/pull/8) in [iamsomraj/MERN-Shopping-App-Old](https://github.com/iamsomraj/MERN-Shopping-App-Old)
-<!--END_SECTION:activity-->
-
----
-
 
 
 [website]: https://iamsomraj.github.io/
