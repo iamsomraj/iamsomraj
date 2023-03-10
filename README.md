@@ -10,9 +10,9 @@
 ## I'm a Developer, Learner, Creator & Dreamer ✨
 <br />
 
-- 🔭 I’m currently working on a new playlist for my channel!
-- 🥅 Current Goals: Do more open source contributions and make more content on YouTube
-- ⚡ Fun fact: I love to eat and code ( day and night ) 😛
+- 🔭 I’m currently working on an existing project
+- 🥅 Current Goals: Do more open source contributions
+- ⚡ Fun fact: I love to eat while I code 😛
 
 <br />
 <br />
