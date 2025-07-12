@@ -34,11 +34,3 @@ Welcome to my GitHub! I hope you're having an amazing day!
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-
----
-
-![Somraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsomraj&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsomraj&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-> <sub>NOTE: Top languages do not indicate my skill level; it's a GitHub metric.</sub>
